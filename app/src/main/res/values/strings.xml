@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">SuitMediaTest</string>
+    <string name="app_name">SuitMediaIntern</string>
+    <string name="retry">Retry</string>
+    <string name="timeout">Timeout</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="user_image">user image</string>
+    <string name="icon_profile">icon profile</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
 </resources>
